@@ -1,0 +1,31 @@
+{
+    "users": [{
+        "id": "1",
+      "name": "Alex Meraz",
+      "zipcode": "07306",
+      "lat": "55.0369",
+      "long": "45.026",
+      "timezone": "EST"
+    }, {
+        "id": "2",
+        "name": "Alex Meraz",
+        "zipcode": "07306",
+        "lat": "55.0369",
+        "long": "45.026",
+        "timezone": "EST"
+    }, {
+        "id": "3",
+        "name": "Alex Meraz",
+        "zipcode": "07306",
+        "lat": "55.0369",
+        "long": "45.026",
+        "timezone": "EST"
+    }, {
+        "id": "4",
+        "name": "Alex Meraz",
+        "zipcode": "07306",
+        "lat": "55.0369",
+        "long": "45.026",
+        "timezone": "EST"
+    }]
+  }
