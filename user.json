@@ -1,31 +1,19 @@
 {
     "users": [{
-        "id": "1",
       "name": "Alex Meraz",
-      "zipcode": "07306",
-      "lat": "55.0369",
-      "long": "45.026",
-      "timezone": "EST"
+      "age": 24,
+      "email": "ameraz@email.com"
     }, {
-        "id": "2",
-        "name": "Alex Meraz",
-        "zipcode": "07306",
-        "lat": "55.0369",
-        "long": "45.026",
-        "timezone": "EST"
+      "name": "Mohammed Rafi",
+      "age": 21,
+      "email": "mrafi@email.com"
     }, {
-        "id": "3",
-        "name": "Alex Meraz",
-        "zipcode": "07306",
-        "lat": "55.0369",
-        "long": "45.026",
-        "timezone": "EST"
+      "name": "Raja Tamil",
+      "age": 31,
+      "email": "rtamil@email.com"
     }, {
-        "id": "4",
-        "name": "Alex Meraz",
-        "zipcode": "07306",
-        "lat": "55.0369",
-        "long": "45.026",
-        "timezone": "EST"
+      "name": "Sundar Pichai",
+      "age": 21,
+      "email": "spichai@email.com"
     }]
   }
