@@ -1,9 +1,13 @@
-var config = {
-    apiKey: "cAIzaSyBnSrCl0UvzIq1yrDMJ3zsdummy",
-    authDomain: "asdfadsf-a56e7.firebaseapp.com",
-    databaseURL: "httpss://asdfadsf-a56e7.firebaseio.com",
-    projectId: "asdfadsf-a56e7",
-    storageBucket: "asdfadsf-a56e7.appspot.com",
-    messagingSenderId: "104313484945"
-  };
+
+
+  var config = {
+    apiKey: "AIzaSyBIhplEK5x66E1ebYDxWYWFPk9i094o8Mg",
+    authDomain: "demoproject-71bec.firebaseapp.com",
+    databaseURL: "https://demoproject-71bec.firebaseapp.com",
+    projectId: "demoproject-71bec",
+    storageBucket: "demoproject-71bec.appspot.com",
+    messagingSenderId: "731576663899",
+    appId: "1:731576663899:web:a4d3fd28d83ed0d8d5a47e"
+  }
+
   firebase.initializeApp(config);
